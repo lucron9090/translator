@@ -1,0 +1,2 @@
+# translator
+Translates Python scripts 
